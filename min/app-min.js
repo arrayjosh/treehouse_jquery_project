@@ -12,3 +12,5 @@ $('.card').on('click', function() {
   // Make the "Adopt!" buttons on the homepage open a modal?
   // Require the checkbox on the form
   // Only enable the checkbox once its link has been clicked
+
+
